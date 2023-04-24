@@ -4,7 +4,7 @@
 
 <!-- <a href=""><img src="https://img.shields.io/badge/Blog-blog?style=flat&logo=blog&logoColor=white&color=grey"/></a> <br/> -->
 <p align="center">:love_letter: minsokim246@gmail.com</p> <br/>
-<p align="center">:raising_hand: 안녕하세요 백엔드 개발자 입니다</p> <br/>
+<p align="center">:raising_hand: 안녕하세요 백엔드 개발자 입니다<br/>하루하루 발전하는 개발자가 되려고 노력합니다.</p> <br/>
 <div align="center">
   <p>:muscle: Tech Stacks</p>
   <img src="https://img.shields.io/badge/Java-JAVA?style=flat&logo=java&logoColor=white&color=orange"/>
